@@ -1,7 +1,7 @@
 # Arkanoid-JavaRush
 Console game
 
-HOW TO LAUCH
+<h3>HOW TO LAUCH</h3>
 
 1. Download the jar file of the project
 
